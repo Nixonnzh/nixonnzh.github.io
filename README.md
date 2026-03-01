@@ -1,54 +1,41 @@
+## 🙋‍♂️ Introduction
 
-## Hypefolio 🔥
+<!--
+**Nixonnzh/Nixonnzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
-## Demo
+Here are some ideas to get you started:
 
-https://harisahmad.netlify.app
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+![alt text](https://github.com/Nixonnzh/nixonnzh.github.io/tree/main/Assets/Blue%20and%20White%20Simple%20Designer%20LinkedIn%20Banner%20.png)
+Hello, I’m Nixon! A self-starting Data Consultant with a strong foundation in ETL warehousing, cloud technologies and analytics. I am passionate about using data to solve real-world challenges and drive business transformation. With over two years of experience, I have worked on end-to-end data pipelines, predictive modeling, and advanced data analysis to enhance decision-making processes and optimize operations.
 
+### 🔍 What I Do
+I leverage my expertise in Python, SQL, and cloud technologies (such as Azure and AWS) to develop scalable data solutions, automate workflows, and processing large datasets.
+* Building ETL pipelines using dbt, Matillion & Airflow.
+* Managing Data Warehouses on Snowflake & Databricks.
+* Data analysis and reporting using Python & Excel.
+* Developing dashboards on Tableau & PowerBI.
 
-## Features
+### 📚 Projects
+Explore my [portfolio](https://github.com/Nixonnzh/Portfolio-Guide) where I apply my skillset for clients and real-world problems.
 
-- Easy to Setup 💯
-- Free to Use ( OpenSource ) 🥳
-- Multi Page 💎
-- Fully Responsive 🚀
-- Super Fast and Optimized for SEO ⚡
-- Dark/Light Toggle Modes 🤘
+### 🛠️ Tools
+* Languages: Python, SQL
+* Cloud & Big Data: Azure, AWS, Snowflake, Databricks
+* Data Processing & Pipelines: Spark, Airflow, Kafka, Matillion
+* Databases: MSSQL, AWS Athena, Neo4J, Teradata
+* Machine Learning: Scikit-learn, TensorFlow, Matlab
+* Data Visualization: Tableau, Power BI
 
-
-
-
-## 🚀 About Me
-Hello, I'm Haris Ahmad, the visionary mind behind Hypefolio – a groundbreaking open-source portfolio website. Dive into the world of coding excellence with Hypefolio's freely available source code, empowering anyone to craft their digital showcase effortlessly. 🌐✨
-
-Connect with me on LinkedIn to stay in the loop with my professional journey and discover insights into the evolving tech landscape.
-
-My Linkedin: https://www.linkedin.com/in/harisahmad59
-
-Your journey doesn't stop there! Join me on Instagram for a closer look at my content, where I share coding tips, project highlights, and more. Don't miss out – your coding adventure awaits! 🔍💡 
-
-Instagram: https://www.instagram.com/codehype_/
-
-
-## Tech Stack
-
-- HTML 🚀
-- CSS 🚀
-- JavaScript 🚀
-## How To Use
-
-```
-# Clone this repository
-$ git clone https://github.com/harisahmad59/Hypefolio
-
-# Go into the repository
-$ cd Hypefolio
-
-# Remove current origin repository
-$ git remote remove origin
-```
-then open the index.html inside your favorite browser or using the live server extension. Use this source code to create your own hypefolio portfolio website.
-## Give a Star ⭐
-
-If you like this project then give it a Github star by pressing the Star button ⭐
+### 👋🏻 Let’s Connect
+Feel free to reach out for collaborations, freelance opportunities, or discussions on innovative data solutions:
+* [LinkedIn](https://www.linkedin.com/in/nixonnzh/)
+* [Upwork](https://www.upwork.com/freelancers/~01071cf8535bd53880)
