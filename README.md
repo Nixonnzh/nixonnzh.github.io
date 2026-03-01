@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://github.com/Nixonnzh/nixonnzh.github.io/tree/main/Assets/Blue%20and%20White%20Simple%20Designer%20LinkedIn%20Banner%20.png)
+![alt text](https://github.com/Nixonnzh/nixonnzh.github.io/blob/main/Assets/Blue%20and%20White%20Simple%20Designer%20LinkedIn%20Banner.png)
 Hello, I’m Nixon! A self-starting Data Consultant with a strong foundation in ETL warehousing, cloud technologies and analytics. I am passionate about using data to solve real-world challenges and drive business transformation. With over two years of experience, I have worked on end-to-end data pipelines, predictive modeling, and advanced data analysis to enhance decision-making processes and optimize operations.
 
 ### 🔍 What I Do
